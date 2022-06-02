@@ -1,5 +1,7 @@
 <img src="https://res.cloudinary.com/dwac7hlfp/image/upload/v1654198681/git%20images/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51_l2mlhs.gif" alt="">
+
 ### Hi there 👋, Hi, I'm Sanu Das
+
 #### A passionate frontend developer from Bangladesh
 ![A passionate frontend developer from Bangladesh]
 
@@ -18,16 +20,4 @@ Skills: WordPress/ JS / HTML / CSS / Bootstrap/ Tailwind / REACT
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username= https://github.com/sanudas2018)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= https://github.com/sanudas2018)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username= https://github.com/sanudas2018&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username= https://github.com/sanudas2018)  
-
-![GitHub metrics](https://metrics.lecoq.io/ https://github.com/sanudas2018)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user= https://github.com/sanudas2018)  
-
-![Profile views](https://gpvc.arturio.dev/ https://github.com/sanudas2018)  
