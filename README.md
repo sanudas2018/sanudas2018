@@ -1,6 +1,7 @@
+(https://res.cloudinary.com/dwac7hlfp/image/upload/v1654198681/git%20images/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51_l2mlhs.gif)
 ### Hi there 👋, Hi, I'm Sanu Das
 #### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh](https://res.cloudinary.com/dwac7hlfp/image/upload/v1654198681/git%20images/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51_l2mlhs.gif)
+![A passionate frontend developer from Bangladesh]
 
 I'm a Front End Web Developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic goal-oriented and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include REACT Js and JavaScript.  
 
