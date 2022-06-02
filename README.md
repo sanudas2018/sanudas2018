@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/dwac7hlfp/image/upload/v1654200610/git%20images/web-developer_z5pat8.gif" alt="">
 
-### Hi there 👋, Hi, I'm Sanu Das
+### Hi there 👋, Hi, I'm Manabendra das (Sanu)
 
 #### A passionate frontend developer from Bangladesh
 ![A passionate frontend developer from Bangladesh]
