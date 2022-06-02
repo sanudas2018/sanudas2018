@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dwac7hlfp/image/upload/v1654198681/git%20images/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51_l2mlhs.gif" alt="">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FPolarBearGG%2FPolarBearGG%2Fmaster%2Fweb-developer.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FPolarBearGG%2FPolarBearGG&tbnid=YX-6heqmtoyG0M&vet=12ahUKEwj7ofuvyI_4AhWPjNgFHXa4BEMQMygGegUIARDlAQ..i&docid=PypyLg2gTggPrM&w=1240&h=480&q=web%20developer%20gif%20image%20banner&ved=2ahUKEwj7ofuvyI_4AhWPjNgFHXa4BEMQMygGegUIARDlAQ" alt="">
 
 ### Hi there 👋, Hi, I'm Sanu Das
 
