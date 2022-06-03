@@ -33,11 +33,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanudas2018&show_icons=true&locale=en&layout=compact" alt="sanudas2018" /></p>
 
-<p> &nbsp;<img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=sanudas2018&show_icons=true&locale=en" alt="sanudas2018" /></p>
+<p> &nbsp;<img align="left" height="170"  src="https://github-readme-stats.vercel.app/api?username=sanudas2018&show_icons=true&locale=en" alt="sanudas2018" /></p>
 
 
 
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanudas2018&" alt="sanudas2018" /></p>
+<p><img align="center" margin-top="40" src="https://github-readme-streak-stats.herokuapp.com/?user=sanudas2018&" alt="sanudas2018" /></p>
 
 
