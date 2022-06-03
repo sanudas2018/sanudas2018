@@ -38,6 +38,6 @@
 
 
 </div>
-<p><img align="center" margin-top="40" src="https://github-readme-streak-stats.herokuapp.com/?user=sanudas2018&" alt="sanudas2018" /></p>
-
+<!-- <p><img align="center" margin-top="40" src="https://github-readme-streak-stats.herokuapp.com/?user=sanudas2018&" alt="sanudas2018" /></p>
+ -->
 
