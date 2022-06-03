@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I AM Funny**
 
-<h3 align="left" border-bottom:"2px solid red">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mbsanu_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbsanu_das" height="30" width="40" /></a>
 <a href="https://fb.com/sanudas2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanudas2020" height="30" width="40" /></a>
