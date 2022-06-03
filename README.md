@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sanu.das08103@gmail.com**
 
-- 📄 Know about my experiences [5 years(WordPress)](5 years(WordPress))
+- 📄 Know about my experiences [5 years(WordPress)]
 
 - ⚡ Fun fact **I AM Funny**
 
