@@ -1,7 +1,7 @@
 <img src="https://res.cloudinary.com/dwac7hlfp/image/upload/v1654200610/git%20images/web-developer_z5pat8.gif" alt="">
 
 <h1 align="center">Hi 👋, I'm Manabendra das (Sanu)</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+## <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align='right' alt='coding' width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanudas2018&label=Profile%20views&color=0e75b6&style=flat" alt="sanudas2018" /> </p>
